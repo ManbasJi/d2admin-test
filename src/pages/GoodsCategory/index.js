@@ -1,3 +1,3 @@
-import GoodsCategory from './GoodsCategory'
+import GoodsCategory from './goodsCategory'
 
 export default GoodsCategory

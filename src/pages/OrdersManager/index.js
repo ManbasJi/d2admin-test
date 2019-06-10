@@ -1,3 +1,3 @@
-import OrdersManager from './OrdersManager'
+import OrdersManager from './ordersManager'
 
 export default OrdersManager

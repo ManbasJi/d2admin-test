@@ -1,3 +1,3 @@
-import OrgansManager from './OrgansManager'
+import OrgansManager from './organsManager'
 
 export default OrgansManager

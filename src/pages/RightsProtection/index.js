@@ -1,3 +1,3 @@
-import RightsProtection from './RightsProtection'
+import RightsProtection from './rightsProtection'
 
 export default RightsProtection

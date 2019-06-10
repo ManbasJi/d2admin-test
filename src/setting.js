@@ -13,16 +13,14 @@ export default {
   },
   // 在读取持久化数据失败时默认页面
   page: {
-    opened: [
-      {
-        name: 'index',
-        fullPath: '/',
-        meta: {
-          title: '首页',
-          auth: false
-        }
+    opened: [{
+      name: 'index',
+      fullPath: '/',
+      meta: {
+        title: '首页',
+        auth: false
       }
-    ]
+    }]
   },
   // 菜单搜索
   search: {
@@ -30,7 +28,11 @@ export default {
   },
   // 注册的主题
   theme: {
-    list: [
+    list: [{
+        title: 'LeadNexus 管理后台',
+        name: 'ld',
+        preview: 'image/theme/d2/preview@2x.png'
+      },
       {
         title: 'd2admin 经典',
         name: 'd2',

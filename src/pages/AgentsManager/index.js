@@ -1,3 +1,3 @@
-import AgentsManager from './AgentsManager'
+import AgentsManager from './agentsManager'
 
 export default AgentsManager
